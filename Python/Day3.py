@@ -15,3 +15,21 @@ print se_diagonal - givenInput
 #312051 < 559^2, so it will be to the left of the SE corner of the grid
 #by 430 spaces (559^2 - 312051)
 #Answer = 430 spaces
+
+#Part 2
+
+
+x = y = 0
+z = 1
+grid = []
+total = 0
+
+while total <= givenInput:
+
+
+
+
+
+
+
+
